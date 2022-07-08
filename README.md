@@ -13,8 +13,8 @@
 
 ## Overviews
 
-# ![Overviews](https://github.com/lynxnexy/lynx/raw/main/overview/Screenshot_2021-12-20_13-23-31.png?raw=true)
-# ![Overviews](https://github.com/lynxnexy/lynx/raw/main/overview/Screenshot_2021-12-20_13-24-00.png?raw=true)
+# ![Overviews](https://raw.githubusercontent.com/daudgithub1/ElsanWrt/main/overview/Screenshot_2021-12-20_13-23-31.png?raw=true)
+# ![Overviews](https://raw.githubusercontent.com/daudgithub1/ElsanWrt/main/overview/Screenshot_2021-12-20_13-24-00.png?raw=true)
 
 ## Acknowledgments
 
