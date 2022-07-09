@@ -63,8 +63,8 @@ svn co https://github.com/hubutui/p7zip-lede/trunk package/p7zip
 # svn co https://github.com/xiaorouji/openwrt-passwall/trunk package/openwrt-passwall
 
 # luci-app-openclash
-svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/openwrt-openclash
-pushd package/openwrt-openclash/tools/po2lmo && make && sudo make install 2>/dev/null && popd
+# svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/openwrt-openclash
+# pushd package/openwrt-openclash/tools/po2lmo && make && sudo make install 2>/dev/null && popd
 
 #add luci-theme-netgear
 rm -rf package/lean/luci-theme-netgear/
