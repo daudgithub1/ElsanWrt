@@ -10,12 +10,6 @@ name: Build OpenWrt lede
 on:
   repository_dispatch:
   workflow_dispatch:
-  schedule:
-    - cron: '0 17 * * 0'
-
-on:
-  repository_dispatch:
-  workflow_dispatch:
     inputs:
       openwrt_kernel:
         description: "Select kernel version"
