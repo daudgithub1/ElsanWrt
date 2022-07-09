@@ -16,7 +16,7 @@ on:
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_BRANCH: master
-  FEEDS_CONF: router-config/lede-master/feeds.conf.default
+  FEEDS_CONF: customfeed/feeds.conf.default
   CONFIG_FILE: router-config/lede-master/.config
   DIY_P1_SH: router-config/lede-master/diy-part1.sh
   DIY_P2_SH: router-config/lede-master/diy-part2.sh
