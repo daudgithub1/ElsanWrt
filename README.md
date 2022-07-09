@@ -6,13 +6,13 @@
 |Default IP : 192.168.1.1
 |Default Username : root
 |Default Password : password
-|WiFi SSID : ELSAN
+|WiFi SSID : ELSAN (Karnel 128 Wifi Off)
 |WiFi Password : none
 |Install to EMMC : Login to OpenWrt → System → Amlogic Service → Install OpenWrt
 
 
 ## Overviews
-
+### Lede
 # ![Overviews](https://raw.githubusercontent.com/daudgithub1/ElsanWrt/main/overview/1.JPG?raw=true)
 # ![Overviews](https://raw.githubusercontent.com/daudgithub1/ElsanWrt/main/overview/2.JPG?raw=true)
 
