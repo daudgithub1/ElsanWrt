@@ -4,8 +4,6 @@ src-git routing https://github.com/coolsnowwolf/routing
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git custom_generic1 https://github.com/lrdrdn/my-opkg-repo/tree/main/generic
 src-git custom_arch1 https://github.com/lrdrdn/my-opkg-repo/tree/main/aarch64_cortex-a53
-src/gz custom_generic http://raw.githubusercontent.com/lrdrdn/my-opkg-repo/main/generic
-src/gz custom_arch http://raw.githubusercontent.com/lrdrdn/my-opkg-repo/main/aarch64_cortex-a53
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
