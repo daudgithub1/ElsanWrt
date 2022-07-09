@@ -14,7 +14,7 @@
 ## Overviews
 
 # ![Overviews](https://raw.githubusercontent.com/daudgithub1/ElsanWrt/main/overview/1.JPG?raw=true)
-# ![Overviews](https://raw.githubusercontent.com/daudgithub1/ElsanWrt/main/overview/1.JPG?raw=true)
+# ![Overviews](https://raw.githubusercontent.com/daudgithub1/ElsanWrt/main/overview/2.JPG?raw=true)
 
 ## Acknowledgments
 
