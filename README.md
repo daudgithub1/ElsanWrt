@@ -13,8 +13,8 @@
 
 ## Overviews
 
-# ![Overviews](https://raw.githubusercontent.com/daudgithub1/ElsanWrt/main/overview/Screenshot_2021-12-20_13-23-31.png?raw=true)
-# ![Overviews](https://raw.githubusercontent.com/daudgithub1/ElsanWrt/main/overview/Screenshot_2021-12-20_13-24-00.png?raw=true)
+# ![Overviews](https://raw.githubusercontent.com/daudgithub1/ElsanWrt/main/overview/1.JPG?raw=true)
+# ![Overviews](https://raw.githubusercontent.com/daudgithub1/ElsanWrt/main/overview/1.JPG?raw=true)
 
 ## Acknowledgments
 
@@ -24,3 +24,4 @@
 - [unifreq](https://github.com/unifreq/openwrt_packit)
 - [ophub](https://github.com/ophub/amlogic-s9xxx-openwrt)
 - [sibondt](https://facebook.com/sibondt) & [raditbh](https://t.me/radityabh) for Kernel
+- [lynx](https://github.com/3k0jun1/lynx) for Mod Openwrt
