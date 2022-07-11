@@ -45,7 +45,7 @@ sed -i "s/\/bin\/ash/\/usr\/bin\/zsh/g" package/base-files/files/etc/passwd
 # sed -i -e "s/客户端/Host/g" -e "s/下载带宽/DL Speed/g" -e "s/上传带宽/UL Speed/g" -e "s/总下载流量/Download/g" -e "s/总上传流量/Upload/g" -e "s/流量合计/Total/g" -e "s/首次上线时间/First Seen/g" -e "s/最后上线时间/Last Seen/g" -e "s/总计/TOTAL/g" -e "s/数据更新时间/Last updated/g" -e "s/倒数/Updating again in/g" -e "s/秒后刷新./seconds./g" package/lean/luci-app-wrtbwmon/htdocs/luci-static/wrtbwmon/wrtbwmon.js
 # sed -i "s/Bandwidth Monitor/Bandwidth/g" feeds/luci/applications/luci-app-nlbwmon/luasrc/controller/nlbw.lua
 # wireless
-# sed -i -e "s/channel="'$'"{channel}/channel=11/g" -e "s/htmode="'$'"htmode/htmode=HT40/g" -e "s/country=US/country=ID/g" -e "s/ssid=OpenWrt/ssid=LYNX/g" package/kernel/mac80211/files/lib/wifi/mac80211.sh
+sed -i -e "s/channel="'$'"{channel}/channel=11/g" -e "s/htmode="'$'"htmode/htmode=HT40/g" -e "s/country=US/country=ID/g" -e "s/ssid=OpenWrt/ssid=ELSANWIFI/g" package/kernel/mac80211/files/lib/wifi/mac80211.sh
 # Replace the default software source
 # sed -i 's#openwrt.proxy.ustclug.org#mirrors.bfsu.edu.cn\\/openwrt#' package/lean/default-settings/files/zzz-default-settings
 #
